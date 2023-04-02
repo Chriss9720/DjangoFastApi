@@ -1,0 +1,51 @@
+[
+	{
+        "first_name": "JOSE ALBERTO",
+        "last_name": "TREJO",
+        "email": "TESA9509225X1@gmail.com",
+        "curp": "TESA950922HSSSRLO8",
+        "username": "admin_manifiesto"
+    },
+    {
+        "first_name": "JOSE ALBERTO",
+        "last_name": "TREJO",
+        "email": "TESA9509225X1@gmail.com",
+        "curp": "TESA950922HSSSRL01",
+        "username": "admin_recintos"
+    },
+    {
+        "first_name": "JOSE ALBERTO",
+        "last_name": "TREJO",
+        "email": "TESA9509225X1@gmail.com",
+        "curp": "TESA950922HSSSRL02",
+        "username": "linea_naviera"
+    },
+    {
+        "first_name": "JOSE ALBERTO",
+        "last_name": "TREJO",
+        "email": "TESA9509225X1@gmail.com",
+        "curp": "TESA950922HSSSRL03",
+        "username": "agente_aereo"
+    },
+    {
+        "first_name": "JOSE ALBERTO",
+        "last_name": "TREJO",
+        "email": "TESA9509225X1@gmail.com",
+        "curp": "TESA950922HSSSRL04",
+        "username": "agente_maritimo"
+    },
+    {
+        "first_name": "JOSE ALBERTO",
+        "last_name": "TREJO",
+        "email": "TESA9509225X1@gmail.com",
+        "curp": "TESA950922HSSSRL05",
+        "username": "empresa_ferroviaria"
+    },
+    {
+        "first_name": "JOSE ALBERTO",
+        "last_name": "TREJO",
+        "email": "TESA9509225X1@gmail.com",
+        "curp": "TESA950922HSSSRL05",
+        "username": "aerolinea"
+    }
+]
