@@ -1,4 +1,0 @@
-Django
-fastapi
-uvicorn
-python-dotenv
